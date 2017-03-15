@@ -1,0 +1,23 @@
+{
+    "name": "huge-react-codechallenge-api",
+    "version": "1.0.0",
+    "description": "API for React Code Challenge Huge BOG",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "json-server ./data/db.json --port 3009 --static ./data/img"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/larrotta69/huge-react-codechallenge-api.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/larrotta69/huge-react-codechallenge-api/issues"
+    },
+    "homepage": "https://github.com/larrotta69/huge-react-codechallenge-api#readme",
+    "devDependencies": {
+        "json-server": "^0.9.6"
+    }
+}

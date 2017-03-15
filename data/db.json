@@ -1,0 +1,177 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Dave Winer",
+            "photo": "dave.jpg",
+            "last-seen-hour": "1:37pm",
+            "chats": [
+                {
+                    "mine": true,
+                    "text": "Welcome back my friends to the show that never ends!",
+                    "time": "1:30pm"
+                },
+                {
+                    "mine": false,
+                    "text": "I'm working on this site on the night of Super Tuesday.",
+                    "time": "1:30pm"
+                },
+                {
+                    "mine": true,
+                    "text": "It's a nice way to pass the time while we wait for the next polls to close.",
+                    "time": "1:30pm"
+                },
+                {
+                    "mine": false,
+                    "text": "Bernie Sanders is getting ready to speak.",
+                    "time": "1:31pm"
+                },
+                {
+                    "mine": true,
+                    "text": "I am able to reply because I am a contributor to this site.",
+                    "time": "1:31pm"
+                },
+                {
+                    "mine": false,
+                    "text": "So what's coming up?",
+                    "time": "1:31pm"
+                },
+                {
+                    "mine": true,
+                    "text": "This is where I'm going to document the development of React",
+                    "time": "1:33pm"
+                },
+                {
+                    "mine": false,
+                    "text": "The other people who are able to write to this site are the braintrust people from the Slack group.",
+                    "time": "1:34pm"
+                },
+                {
+                    "mine": false,
+                    "text": "And each of you has your own chatlog to use for blogging.",
+                    "time": "1:35pm"
+                },
+                {
+                    "mine": false,
+                    "text": "Awesome!",
+                    "time": "1:35pm"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Andrea Shell",
+            "photo": "andrea.jpg",
+            "last-seen-hour": "12:45pm",
+            "chats": [
+                {
+                    "mine": false,
+                    "text": "You can reply to any post.",
+                    "time": "12:35pm"
+                },
+                {
+                    "mine": false,
+                    "text": "You can't edit other people's posts.",
+                    "time": "12:35pm"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ken Smith",
+            "photo": "ken.jpg",
+            "last-seen-hour": "11:29am",
+            "chats": [
+                {
+                    "mine": true,
+                    "text": "I have an automatic reflex to click on click for any mention of hometown Hoosier favorite, Mr. Vonnegut.",
+                    "time": "11:15am"
+                },
+                {
+                    "mine": true,
+                    "text": "That book had a character who was obsessed with people being Hoosiers.",
+                    "time": "11:15am"
+                },
+                {
+                    "mine": false,
+                    "text": "I think she was the wife of the new ambassador to whatever little central american country they were going to.&nbsp;.",
+                    "time": "11:17am"
+                },
+                {
+                    "mine": false,
+                    "text": "My favorite Vonnegut novel is Slaughterhouse Five, which I reread maybe a year ago and liked as well as ever. I don't know if you agree, Dave, but I thought people my age--born in 1955--had a strange experience of WW II. We hadn't lived it, but we were infused with it because the country was still using movies and tv shows to figure out what in the world World War II added up to be--still digesting and grieving and bragging and mythologizing. Pierced through some of the mythology in vivid and important ways, I still think.",
+                    "time": "11:17am"
+                },
+                {
+                    "mine": true,
+                    "text": "I was born in 1955 too. Yes, it was the environment we grew up in. My family, on both sides, emigrated during the war.",
+                    "time": "11:18am"
+                },
+                {
+                    "mine": false,
+                    "text": "We're still living with the aftermath of that upheaval.",
+                    "time": "11:25am"
+                },
+                {
+                    "mine": true,
+                    "text": "hahahaahah",
+                    "time": "11:25am"
+                },
+                {
+                    "mine": true,
+                    "text": "😋",
+                    "time": "11:26am"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sara Searls",
+            "photo": "sara.jpg",
+            "last-seen-hour": "8:07am",
+            "chats": [
+                {
+                    "mine": true,
+                    "text": "Whats your number?",
+                    "time": "7:15am"
+                },
+                {
+                    "mine": false,
+                    "text": "I have a boyfriend",
+                    "time": "7:16am"
+                },
+                {
+                    "mine": true,
+                    "text": "I have a math test",
+                    "time": "7:15am"
+                },
+                {
+                    "mine": false,
+                    "text": "What?",
+                    "time": "7:17am"
+                },
+                {
+                    "mine": true,
+                    "text": "I thought we were talking about things we could cheat on",
+                    "time": "7:18am"
+                },
+                {
+                    "mine": true,
+                    "text": "Do you have a name or can I call you mine?",
+                    "time": "7:19am"
+                },
+                {
+                    "mine": true,
+                    "text": "Do you buy your pants on sale? Because at my house they would be 100% off.",
+                    "time": "7:20am"
+                },
+                {
+                    "mine": false,
+                    "text": "🌚",
+                    "time": "7:25am"
+                }
+            ]
+        }
+
+    ]
+}
