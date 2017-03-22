@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Dave Winer",
             "photo": "dave.jpg",
-            "last-seen-hour": "1:37pm",
+            "last_seen_hour": "1:37pm",
             "chats": [
                 {
                     "mine": true,
@@ -62,7 +62,7 @@
             "id": 2,
             "name": "Andrea Shell",
             "photo": "andrea.jpg",
-            "last-seen-hour": "12:45pm",
+            "last_seen_hour": "12:45pm",
             "chats": [
                 {
                     "mine": false,
@@ -80,7 +80,7 @@
             "id": 3,
             "name": "Ken Smith",
             "photo": "ken.jpg",
-            "last-seen-hour": "11:29am",
+            "last_seen_hour": "11:29am",
             "chats": [
                 {
                     "mine": true,
@@ -128,7 +128,7 @@
             "id": 4,
             "name": "Sara Searls",
             "photo": "sara.jpg",
-            "last-seen-hour": "8:07am",
+            "last_seen_hour": "8:07am",
             "chats": [
                 {
                     "mine": true,
