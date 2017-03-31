@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "json-server ./data/db.json --port 3009 --static ./data/img"
+        "start": "json-server --watch ./data/db.json --port 3009 --static ./data/img"
     },
     "repository": {
         "type": "git",
